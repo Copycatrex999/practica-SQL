@@ -7,6 +7,8 @@
 -- ==========================================
 -- 1. DDL - CREATE (3 tablas)
 -- ==========================================
+CREATE DATABASE IF NOT EXISTS tienda_practica;
+USE tienda_practica;
 
 CREATE TABLE Clientes (
     id_cliente INT PRIMARY KEY,
