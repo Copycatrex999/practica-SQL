@@ -1,8 +1,6 @@
 -- ==========================================
 -- CREACIÓN Y USO DE BASE DE DATOS (Opcional en MySQL/SQL Server)
 -- ==========================================
--- CREATE DATABASE tienda_practica;
--- USE tienda_practica;
 
 -- ==========================================
 -- 1. DDL - CREATE (3 tablas)
